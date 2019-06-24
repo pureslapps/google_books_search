@@ -1,4 +1,4 @@
-source "http://rubygems.org"
-gem "sinatra"
-gem "faker"
-gem "googlebooks"
+source "http://rubygems.org" do
+  gem "sinatra"
+  gem "googlebooks"
+end
